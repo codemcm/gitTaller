@@ -23,5 +23,5 @@ Hacer commit
 git commit -m "titulo commit" 
 
 Subir CAMBIOS
-git push origin master
+git push origin nombreRama
 

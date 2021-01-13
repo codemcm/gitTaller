@@ -1,0 +1,25 @@
+CREAR PROYECTO REACT JS
+
+npx create-react-app nombreapp
+
+LEVANTAR APLICACIÓN
+
+npm start
+
+INSTALACION DE MATERIAL UI FOR REACT JS
+
+npm install @material-ui/core
+
+Se debe instalar la fuente roboto
+
+npm install fontsource-roboto
+
+Importar en archivo index
+import 'fontsource-roboto';
+
+instalar iconos
+npm install @material-ui/icons
+
+
+Se recomienda ver las plantillas en esta url
+https://material-ui.com/es/getting-started/templates/

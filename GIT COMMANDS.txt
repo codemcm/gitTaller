@@ -25,3 +25,7 @@ git commit -m "titulo commit"
 Subir CAMBIOS
 git push origin nombreRama
 
+Cambiar a otra rama
+git checkout ramaNombre
+
+

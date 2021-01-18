@@ -23,3 +23,10 @@ npm install @material-ui/icons
 
 Se recomienda ver las plantillas en esta url
 https://material-ui.com/es/getting-started/templates/
+
+
+
+Instalar tablas
+
+@material-ui/data-grid
+npm install @material-ui/data-grid
